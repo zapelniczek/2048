@@ -1,0 +1,6 @@
+#Ignore libraries
+*.dll
+#Ignore all subfolders
+*/
+#Ignore files created by visual studio
+*.vcxproj*
